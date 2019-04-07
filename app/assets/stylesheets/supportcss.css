@@ -1,0 +1,12 @@
+.background{
+	background-image: url('../img/img2.jpg');
+	height: 250px;
+	
+	background-size: cover;
+}
+b{
+	margin-top: 70px;
+}
+body{
+	background-color: lightgray;
+}
